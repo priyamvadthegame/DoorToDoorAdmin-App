@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "602856275909",
+    "firebase_url": "https://doortodooradmin.firebaseio.com",
+    "project_id": "doortodooradmin",
+    "storage_bucket": "doortodooradmin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602856275909:android:c752a93c15936cea7515ac",
+        "android_client_info": {
+          "package_name": "com.example.doortodooradminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602856275909-t8o1n595g2h0d82bns8f3irdr9kqn7b2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doortodooradminapp",
+            "certificate_hash": "0a3e108cb439f69d4729e56059cb04cdee4dabab"
+          }
+        },
+        {
+          "client_id": "602856275909-dfdbcml1d152osg0s9dv00h9stgvq6d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7mMCVTAYeDSxzIUUq1QzyPKJtvWth6UU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602856275909-dfdbcml1d152osg0s9dv00h9stgvq6d7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
