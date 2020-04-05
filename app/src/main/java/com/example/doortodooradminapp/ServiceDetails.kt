@@ -1,3 +1,3 @@
 package com.example.doortodooradminapp
 
-data class ServiceDetails(private var serviceName:String,private var serviceType:String,var serviceCity:String,private var serviceState:String,private var serviceZipCode:String,private var serviceImageUrl:String,private var latitude:String,private var longitude:String,private var serviceRange:Int)
+data class ServiceDetails(  var serviceName:String,  var serviceType:String,  var serviceCity:String,  var serviceState:String,  var serviceZipCode:String,  var serviceImageUrl:String,  var latitude:String,  var longitude:String,  var serviceRange:Int)
